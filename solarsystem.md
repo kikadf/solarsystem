@@ -31,7 +31,7 @@ Merkúr, Vénusz, Föld - Hold, Mars
 | Gravitáció | 0,905 F |
 | Mágneses mező ereje | ~0 F |
 | Hőmérséklet | 464 C |
-| Légköri nyomás | 9,2 MPa (92 F) |
+| Légköri nyomás | 92 F |
 | Légkör | 96,5 % CO2, 3,5 % N, kéndioxid, argon |
 | Forgás | 243,16 d retrográd |
 | Keringés| 224,7 d |
@@ -65,7 +65,7 @@ Merkúr, Vénusz, Föld - Hold, Mars
 | Gravitáció | 0,379 F |
 | Mágneses mező ereje | ~0 F |
 | Hőmérséklet | -140/+20 C |
-| Légköri nyomás | 0,7 kPa (0,0074 F) |
+| Légköri nyomás | 0,0074 F |
 | Légkör | 95,7 % CO2, 2,7 % N, 1,6 % Ar, 0,13 % O |
 | Forgás | 24,62 h |
 | Keringés| 1,88 r |
@@ -112,7 +112,7 @@ ebből a Ceres törpebolygó tömege 25-30 %.
 | Földközeli távolság | 588,5 millió km |
 | Holdak | 79 |
 
-Erős magnetoszfére, 14-szer erősebb mint a földi, kiterjed az holdjaira is.
+Erős magnetoszféra, 14-szer erősebb mint a földi, kiterjed az holdjaira is.
 A Jupiter belső mágneses terét a bolygó külső magjában lévő elektromos
 áramok generálják, amely folyékony fémes hidrogénből áll.
 A Jupiter Io holdján a vulkánkitörések nagy mennyiségű kén-dioxid gázt
@@ -200,12 +200,135 @@ lágy röntgensugárzást is.
 | Napfény intenzitás | 0,037 S |
 
 ## Szaturnusz rendszer
+| Szaturnusz |  |
+| --- | --- |
+| Átmérő | 120.536 km |
+| Tömeg | 95,16 F |
+| Keringés| 29,45 r |
+| Naptávolság | 9,54 CsE |
+| Földközeli távolság | 1195,5 millió km |
+| Holdak | 82 |
+
+Mágneses mezeje gyengébb, mint a Földé, kb. 20-a a Jupiterének. Nagy méretű gyűrük,
+6630 és 120.700 km makasságban az egyenlítő mentén. Vastagsága 10 méter. A holdjai
+tömegének 96 %-át a Titán teszi ki.
+
+### Tethys
+|  |  |
+| --- | --- |
+| Átmérő | 1062 km |
+| Tömeg | 0,0001 F |
+| Sűrűség | 0,985 g/cm3
+| Gravitáció | 0,0149 F |
+| Mágneses mező ereje | ~0 F |
+| Hőmérséklet | -185 C |
+| Légköri nyomás | ~0 |
+| Légkör | - |
+| Forgás | 1,9 d |
+| Keringés| 1,9 d |
+| Szaturnusz távolság | 0,294619 millió km |
+| Napfény intenzitás | 0,011 S |
+
+### Dione
+|  |  |
+| --- | --- |
+| Átmérő | 1123 km |
+| Tömeg | 0,00018 F |
+| Sűrűség | 1,48 g/cm3
+| Gravitáció | 0,0237 F |
+| Mágneses mező ereje | ~0 F |
+| Hőmérséklet | -185 C |
+| Légköri nyomás | ~0 |
+| Légkör | - |
+| Forgás | 2,7 d |
+| Keringés| 2,7 d |
+| Szaturnusz távolság | 0,377396 millió km |
+| Napfény intenzitás | 0,011 S |
+
+### Rhea
+|  |  |
+| --- | --- |
+| Átmérő | 1527 km |
+| Tömeg | 0,00039 F |
+| Sűrűség | 1,24 g/cm3
+| Gravitáció | 0,0269 F |
+| Mágneses mező ereje | ~0 F |
+| Hőmérséklet | -210 C |
+| Légköri nyomás | ~0 |
+| Légkör | - |
+| Forgás | 4,5 d |
+| Keringés| 4,5 d |
+| Szaturnusz távolság | 0,527108 millió km |
+| Napfény intenzitás | 0,011 S |
+
+### Titán
+|  |  |
+| --- | --- |
+| Átmérő | 5149 km |
+| Tömeg | 0,0225 F |
+| Sűrűség | 1,881 g/cm3
+| Gravitáció | 0,138 F |
+| Mágneses mező ereje | ~0 F |
+| Hőmérséklet | -180 C |
+| Légköri nyomás | 1,45 F |
+| Légkör | 97 % N, 2,7 % CH4, 0,1 % H |
+| Forgás | 16 d |
+| Keringés| 16 d |
+| Szaturnusz távolság | 1,221870 millió km |
+| Napfény intenzitás | 0,011 S |
+
+### Iapetus
+|  |  |
+| --- | --- |
+| Átmérő | 1470 km |
+| Tömeg | 0,0003 F |
+| Sűrűség | 1,09 g/cm3
+| Gravitáció | 0,0228 F |
+| Mágneses mező ereje | ~0 F |
+| Hőmérséklet | -160 C |
+| Légköri nyomás | ~0 |
+| Légkör | - |
+| Forgás | 79 d |
+| Keringés| 79 d |
+| Szaturnusz távolság | 3,56082 millió km |
+| Napfény intenzitás | 0,011 S |
 
 ## Uránusz rendszer
+| Uránusz |  |
+| --- | --- |
+| Átmérő | 142.984 km |
+| Tömeg | 317,83 F |
+| Keringés| 11,86 r |
+| Naptávolság | 5,2 CsE |
+| Földközeli távolság | 588,5 millió km |
+| Holdak | 79 |
+
+### Ariel
+
+### Umbriel
+
+### Titánia
+
+### Oberon
 
 ## Neptunusz rendszer
+| Neptunusz |  |
+| --- | --- |
+| Átmérő | 142.984 km |
+| Tömeg | 317,83 F |
+| Keringés| 11,86 r |
+| Naptávolság | 5,2 CsE |
+| Földközeli távolság | 588,5 millió km |
+| Holdak | 79 |
+
+### Triton
 
 ## Kuiper öv
+|  |  |
+| --- | --- |
+| Tömeg | 0,000492 F |
+| Naptávolság | 1,9 - 5,0 CsE |
+
 
 ----
 
