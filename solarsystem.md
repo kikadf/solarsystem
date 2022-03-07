@@ -62,7 +62,7 @@ Merkúr, Vénusz, Föld - Hold, Mars
 | Átmérő | 6794 km |
 | Tömeg | 0,107 F |
 | Sűrűség | 3,93 g/cm3
-| Gravitáció | 0,378 F |
+| Gravitáció | 0,379 F |
 | Mágneses mező ereje | ~0 F |
 | Hőmérséklet | -140/+20 C |
 | Légköri nyomás | 0,7 kPa (0,0074 F) |
@@ -103,15 +103,101 @@ ebből a Ceres törpebolygó tömege 25-30 %.
 | Holdak | 0 |
 
 ## Jupiter rendszer
+| Jupiter |  |
+| --- | --- |
+| Átmérő | 142.984 km |
+| Tömeg | 317,83 F |
+| Keringés| 11,86 r |
+| Naptávolság | 5,2 CsE |
+| Földközeli távolság | 588,5 millió km |
+| Holdak | 79 |
 
+Erős magnetoszfére, 14-szer erősebb mint a földi, kiterjed az holdjaira is.
+A Jupiter belső mágneses terét a bolygó külső magjában lévő elektromos
+áramok generálják, amely folyékony fémes hidrogénből áll.
+A Jupiter Io holdján a vulkánkitörések nagy mennyiségű kén-dioxid gázt
+lövellnek ki az űrbe, és nagy tóruszt képeznek a bolygó körül.
+A Jupiter mágneses tere arra készteti a tóruszt, hogy ugyanolyan
+szögsebességgel és -iránnyal forogjon, mint a bolygóé.
+A tórusz viszont plazmával tölti fel a mágneses teret és közben
+egy palacsintaszerű szerkezetté nyújtja, amelyet magnetodiszknek
+neveznek. Valójában a Jupiter magnetoszféráját belülről vezérli,
+elsősorban az Io plazmája és saját forgása alakítja, nem pedig a
+napszél mint a Föld magnetoszférájában. Az erős áramlatok a
+magnetoszférában állandó aurórákat generálnak a bolygó pólusai körül
+és intenzív változó rádiósugárzást, ami azt jelenti, hogy a Jupiter
+nagyon gyenge rádiópulzárnak tekinthető.
+A Jupiter auróráit az elektromágneses spektrum szinte minden részén
+megfigyelték, beleértve az infravörös, a látható, az ultraibolya és a
+lágy röntgensugárzást is.
+
+### Io
 |  |  |
 | --- | --- |
-| Átmérő | 6794 km |
-| Tömeg | 0,107 F |
-| Keringés| 1,88 r |
-| Naptávolság | 1,52 CsE |
-| Földközeli távolság | 55,7 millió km |
-| Holdak | 2 |
+| Átmérő | 3643 km |
+| Tömeg | 0,015 F |
+| Sűrűség | 3,53 g/cm3
+| Gravitáció | 0,184 F |
+| Mágneses mező ereje | ~0 F |
+| Hőmérséklet | -155 C |
+| Légköri nyomás | ~0 |
+| Légkör | - |
+| Forgás | 1,77 d |
+| Keringés| 1,77 d |
+| Jupiter távolság | 0,4218 millió km |
+| Sugárzás | 3600 rem/day (F: 0,0017 rem/day) |
+| Napfény intenzitás | 0,037 S |
+
+### Europa
+|  |  |
+| --- | --- |
+| Átmérő | 3122 km |
+| Tömeg | 0,008 F |
+| Sűrűség | 3,01 g/cm3
+| Gravitáció | 0,134 F |
+| Mágneses mező ereje | ~0 F |
+| Hőmérséklet | -170 C |
+| Légköri nyomás | ~0 |
+| Légkör | - |
+| Forgás | 3,55 d |
+| Keringés| 3,55 d |
+| Jupiter távolság | 0,6711 millió km |
+| Sugárzás | 540 rem/day (F: 0,0017 rem/day) |
+| Napfény intenzitás | 0,037 S |
+
+### Ganymedes
+|  |  |
+| --- | --- |
+| Átmérő | 5262 km |
+| Tömeg | 0,025 F |
+| Sűrűség | 1,94 g/cm3
+| Gravitáció | 0,146 F |
+| Mágneses mező ereje | 0,03 F |
+| Hőmérséklet | -160 C |
+| Légköri nyomás | ~0 |
+| Légkör | - |
+| Forgás | 7,16 h |
+| Keringés| 7,16 r |
+| Jupiter távolság | 1,0704 millió km |
+| Sugárzás | 8 rem/day (F: 0,0017 rem/day) |
+| Napfény intenzitás | 0,037 S |
+
+### Callisto
+|  |  |
+| --- | --- |
+| Átmérő | 4821 km |
+| Tömeg | 0,018 F |
+| Sűrűség | 1,83 g/cm3
+| Gravitáció | 0,127 F |
+| Mágneses mező ereje | ~0 F |
+| Hőmérséklet | -155 C |
+| Légköri nyomás | ~0 |
+| Légkör | - |
+| Forgás | 16,69 d |
+| Keringés| 16,69 d |
+| Jupiter távolság | 1,8827 millió km |
+| Sugárzás | 0,01 rem/day (F: 0,0017 rem/day) |
+| Napfény intenzitás | 0,037 S |
 
 ## Szaturnusz rendszer
 
@@ -125,7 +211,8 @@ ebből a Ceres törpebolygó tömege 25-30 %.
 
 > **Referencia:**
 >
-> [NASA](https://nssdc.gsfc.nasa.gov/)
-> [The Sky Live](https://theskylive.com)
-> [NASA - Solar System](https://solarsystem.nasa.gov)
-> [Wikipedia](https://hu.wikipedia.org/wiki/Naprendszer)
+> [NASA](https://nssdc.gsfc.nasa.gov/),
+> [The Sky Live](https://theskylive.com),
+> [NASA - Solar System](https://solarsystem.nasa.gov),
+> [Wikipedia](https://hu.wikipedia.org/wiki/Naprendszer),
+> [hmn wiki](https://hmn.wiki/hu/Magnetosphere_of_Jupiter).
