@@ -72,8 +72,8 @@ lágy röntgensugárzást is.
 | Hőmérséklet | -160 C |
 | Légköri nyomás | ~0 |
 | Légkör | - |
-| Forgás | 7,16 h |
-| Keringés| 7,16 r |
+| Forgás | 7,16 d |
+| Keringés| 7,16 d |
 | Jupiter távolság | 1,0704 millió km |
 | Sugárzás | 8 rem/day (F: 0,0017 rem/day) |
 | Napfény intenzitás | 0,037 S |
